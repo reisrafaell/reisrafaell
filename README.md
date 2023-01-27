@@ -8,7 +8,7 @@ Hello I'm Rafael Reis  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="28">
 Skills and Technologies
  </p>
 
@@ -38,7 +38,11 @@ Skills and Technologies
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   <br />
   <br />
-  
+  <p align="center">
+<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="28">
+  Social Networks
+ </p>
+
   <a  href="https://www.linkedin.com/in/rafael-reis-de-oliveira-25633120b" target="_blank"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br />
 
